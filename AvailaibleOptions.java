@@ -2,8 +2,8 @@
 
 public class AvailaibleOptions {
     
-     private int numberOfOptions = 4;
-     private UserOption [] availOptions = {new UserOption(0,"Book a Cab"),new UserOption(1,"Cancel a cab"),new UserOption(2, "Check Status"),new UserOption(3, "Exit CMS")};
+     private int numberOfOptions = 5;
+     private UserOption [] availOptions = {new UserOption(0,"Sign Up"), new UserOption(1,"Book a Cab"),new UserOption(2,"Cancel a cab"),new UserOption(3, "Check Status"),new UserOption(4, "Exit CMS")};
 
      public void showOptions()
      {

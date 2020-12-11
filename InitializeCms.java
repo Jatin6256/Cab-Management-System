@@ -20,7 +20,7 @@ public class InitializeCms {
             int selectedChoice = sc.nextInt();
             System.out.println(" ");
 
-            if(selectedChoice == 3)
+            if(selectedChoice == 4)
                 flag = false;
             else
                 manager.handleUserInput(selectedChoice);
@@ -28,7 +28,8 @@ public class InitializeCms {
                
         }
 
-        manager.writeCustomersInfoToFile();
+        manager.writeUsersInfoToFile();
+        manager.saveCarsData();
 
         System.out.println(" ");
         System.out.println("Thank You");
