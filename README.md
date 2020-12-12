@@ -39,9 +39,12 @@ Exit the cms and save status of booked car and customer info to file.
  
  2. Book a car
  
-<img src="finalscreenshots/bookcar1.png" width=350 height=300>
-<img src="finalscreenshots/bookcar2.png" width=350 height=300>
-<img src="finalscreenshots/bookcar3.png" width=350 height=300>
+<img src="finalscreenshots/bookcab1.png" width=350 height=300>
+<img src="finalscreenshots/bookcab2.png" width=350 height=400>
+<img src="finalscreenshots/bookcab3.png" width=350 height=300>
+<img src="finalscreenshots/bookcab4.png" width=350 height=300>
+<img src="finalscreenshots/bookcab5.png" width=350 height=300>
+<img src="finalscreenshots/bookcab6.png" width=350 height=400>
 
 3. Check Status
 
@@ -49,8 +52,8 @@ Exit the cms and save status of booked car and customer info to file.
 
 4. cancel Booking
 
-<img src="finalscreenshots/cancelbooking1.png" width=350 height=300>
-<img src="finalscreenshots/cancelbooking2.png" width=350 height=300>
+<img src="finalscreenshots/cancebooking1.png" width=350 height=300>
+<img src="finalscreenshots/cancelbooking2.png" width=350 height=400>
 
 5. Exit
 
